@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185633462732",
+    "project_id": "cardstore-65e0d",
+    "storage_bucket": "cardstore-65e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185633462732:android:7924d8c7a7fbdbef2d6569",
+        "android_client_info": {
+          "package_name": "com.example.cardstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxNxMzqSWmGZn5cGEM2yzSt0jSvCZszU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
